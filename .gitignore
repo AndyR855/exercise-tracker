@@ -1,0 +1,32 @@
+
+# Android / Gradle
+.gradle/
+.idea/
+**/build/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+*.iml
+*.apk
+*.aab
+
+# Signing keys and secrets
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+.env
+.env.*
+secrets.properties
+key.properties
+keystore.properties
+
+# Generated Android files
+gen/
+*.idsig
+
+# Local ByteRover configuration
+.brv/
