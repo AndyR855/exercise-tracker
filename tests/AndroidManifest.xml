@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.example.exercisetracker.tests">
+    <uses-sdk android:minSdkVersion="26" android:targetSdkVersion="33" />
+    <application android:label="Exercise Tracker regression checks" />
+    <instrumentation android:name=".RegressionInstrumentation"
+        android:targetPackage="com.example.exercisetracker" />
+</manifest>

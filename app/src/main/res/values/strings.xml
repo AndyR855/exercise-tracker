@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="completion_summary">Exercise completed: %1$d / 30 days</string>
+    <string name="reminder_summary">Daily Reminder — %1$s</string>
+</resources>
